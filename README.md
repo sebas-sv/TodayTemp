@@ -110,7 +110,7 @@ This is an example of how to list things you need to use the software and how to
 
 4. Install the necessary requirements for the project
    ```sh
-   pipenv installation
+   pipenv install
    ```
 5. Run the virtual environment
    ```sh
@@ -126,7 +126,7 @@ This is an example of how to list things you need to use the software and how to
 2. Start the project
 
    ```sh
-   python .\src\main.py
+   python src/main.py
    ```
 
 <!-- ROADMAP -->
